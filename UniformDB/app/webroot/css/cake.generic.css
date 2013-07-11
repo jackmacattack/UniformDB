@@ -21,6 +21,17 @@
 	padding:0;
 }
 
+#navBar
+{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+}
 /** General Style Info **/
 body {
 	background: #003d4c;
