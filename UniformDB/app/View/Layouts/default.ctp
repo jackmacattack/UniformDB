@@ -19,7 +19,7 @@
 
 $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
 
-$sections = array('People;www.google.com', 'People;www.google.com');
+$sections = array('People;/people', 'Instruments;/instruments');
 ?>
 <!DOCTYPE html>
 <html>
